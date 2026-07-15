@@ -117,11 +117,11 @@ The system predicts whether the given rainfall conditions indicate:
 
 ## 👥 Team Members
 
-* k.chandravardhan reddy
-* shaik Mohammad Ismail
-* Jyotheeshwar Mangala
-* Karthik Kodamala
-* Hemaprashanth Sadasiva
+* B.Bhargava Teja
+* Bhavessh Anand
+* Bhargavi S
+* Mounika Bendi
+* Abbas
 
 ---
 
